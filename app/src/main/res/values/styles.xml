@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="texttheme" parent="android:TextAppearance.Widget.TextView">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingTop">20dp</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+    <style name="text_spd" parent="android:TextAppearance.Widget.TextView">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+    <style name="text_spd2" parent="android:TextAppearance.Widget.TextView">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+    <style name="text_eng" parent="android:TextAppearance.Widget.TextView">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">@color/colorRed</item>
+    </style>
+
+
+    <style name="addstyle" parent="android:TextAppearance.Widget.TextView">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+
+</resources>

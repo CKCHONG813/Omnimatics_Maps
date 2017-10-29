@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Omnimatics Maps</string>
+    <string name="title_activity_maps">Omnimatics Map</string>
+    <string name="eng_on">ON</string>
+    <string name="eng_off">OFF</string>
+    <string name="no_int">No internet connection available. Please try again.</string>
+    <string name="eng">ENGINE</string>
+    <string name="spd">SPEED</string>
+    <string name="last">LAST SEEN</string>
+    <string name="km">km/h</string>
+</resources>
